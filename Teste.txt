@@ -1,9 +1,5 @@
 adicioando uma linha nova ao arquivo
 melhorei a linha 1
-alteração do hotfix.
-alteração do hotfix 2
-
-alteração do hotfix 3
 teste rebase
 teste rebase 2
 teste rebase 3
