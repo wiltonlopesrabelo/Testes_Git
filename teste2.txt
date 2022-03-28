@@ -2,3 +2,6 @@ linha 1
 
 linha 2
 linha 3
+
+linha hotfix-novo
+linha hotfix-novo2
